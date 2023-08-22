@@ -1,3 +1,3 @@
 # trackeriq-hw
 
-My solution to the homeword provided by TrackerIQ
+My solution to the homework provided by TrackerIQ
